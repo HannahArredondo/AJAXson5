@@ -1,0 +1,35 @@
+body {
+    font-family: Acme, Monospace;
+    background: url(television.png);
+    background-repeat: no-repeat;
+    background-size: 550px 450px;
+    background-position: 50% 225px; 
+    text-align: center;
+    margin: auto;
+}
+
+tr{
+    padding: 10px;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.445);
+    padding: 10px;
+    color: white;
+}
+form{
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#gif{
+    position: absolute;
+    width: 336px;
+    height: 223px;
+    top: 420px;
+    margin-left: -225px;
+    text-align: center;
+}
+.error{
+    color:red;
+}
