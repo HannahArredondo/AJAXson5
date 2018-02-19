@@ -38,7 +38,7 @@ function fetchAndDisplayGif(event) {
 
         var params = { 
             api_key: "dc6zaTOxFJmzC", 
-            tag : search_gif
+            tag : "jackson 5 "+ search_gif
         };
         
         // make an ajax request for a random GIF
